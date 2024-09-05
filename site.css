@@ -1,0 +1,57 @@
+body{
+    background-image: url(Imagens/backtrian.jpg);
+}
+.projeto__foto  {
+    text-align: center;
+    color: aliceblue;
+}
+img{
+ width: 20%;
+ border-radius: 300px;
+}
+
+ .projeto__inicial {
+    color: rgb(241, 236, 236);
+    text-align: center;
+
+}
+.projeto__background{
+    background-color: rgb(61, 5, 22);
+    border-width: 30000px;
+    height: 1000px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.projeto__experiencia{
+    text-align: center;
+}
+
+.projeto__empresa{
+    padding: 10px;
+}
+.projeto__instagram{
+    width: 5%;
+    padding: 10%;
+    display: flex;
+
+}
+.projeto__link {
+    width: 5%;
+    padding: 10%;
+    display: flex;
+    margin-top: -18%;
+}
+.projeto__paragrafo{
+    text-align: left;
+    display: flex;
+    gap: 10px;
+}
+.projeto__alinhamento{
+    padding:  2% 0 0 30%;
+    top: 150px;
+    margin: 0;
+}
